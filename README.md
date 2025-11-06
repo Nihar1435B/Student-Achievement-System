@@ -73,85 +73,12 @@ SAMS leverages a selected set of front-end and back-end technologies for optimal
     •	Store and retrieve user login information <br>
     •	Manage student records and achievements
  	
-## ARCHITECTURAL DESIGN
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/bea938d8-ecce-418e-93aa-6b90d2d49026)
-<img src="https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/e64e997d-c451-47a6-b3be-afb4d8e31f72" alt="image" width="50%" height="50%">
-
-## OUTPUT
-
-**SIGNUP PAGE**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/c0e9215f-4def-4e1c-a2b2-a433a2bd32b9)
-
-**LOGIN PAGE**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/6ca2baed-f16e-4214-849e-de3d6eec9ca9)
-
-**ADMIN DASHBOARD**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/d59814a4-eb5e-459d-b12a-14b90d284810)
-
-**CLASS**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/5939cb4d-930c-42b7-96df-2859b2a77ea8)
-
-**CLASS-WISE STUDENT DATA**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/8750c4f2-f62b-4a3f-8583-1d7cb9f046d5)
-
-**DETAILS OF STUDENTS**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/0bfbf632-6e6e-47eb-a8a0-9b0a422ed690)
-
-**STUDENT MANAGEMENT**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/109384c5-3dba-45df-80fd-bfecd4fa152b)
-
-**ADD STUDENT**
- 
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/5a30980e-65d1-4c32-ac57-a37dc2f3c7da)
-
-**TEACHER MANAGEMENT**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/3e499544-7163-4b2f-82e6-59eb9dc95a0d)
-
-**ADD TEACHER**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/7915c071-5c0f-4308-bf7a-1992eb240dd7)
-
-**TEACHER LIST**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/c4733ad5-171b-476c-a9b7-29c2988d3c4f)
-
-**VIEW TEACHER DETAILS**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/47d873ef-93a5-4e28-a629-8127dace094f)
-
-**TEACHER DASHBOARD**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/82ea8658-054a-492d-add4-5a75152d40ec)
-
-**STUDENT DASHBOARD**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/a93c4cb7-f233-4ab4-8ff7-0f9d25888869)
-
-**ACHIEVEMENT PAGE**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/8a7a007f-183c-4ca2-b3c0-26910af46463)
-
-**INDIVIDUAL PROFILE PAGE WITH POSTS**
-
-![image](https://github.com/mvharsh/Student-Achievement-Management-System/assets/111365320/7a75f9b0-cd58-4a81-8276-fdd1f323a76b)
 
 
 ## CONCLUSION
 
 The purpose of implementing the Student Achievement Management System is to revolutionize the recognition and celebration of educational accomplishments within academic institutions. By utilizing a technology stack of HTML, CSS, JavaScript, PHP, and MySQL, SAMS creates a seamless experience for administrators, teachers, and students, promoting collaboration and a culture of achievement.
 
-### Project Report:
-
-<a href="https://drive.google.com/file/d/1h0233av5NK4foumutFLrU4_DOwPxivDJ/view?usp=sharing">Project Report Link</a>
 
 
 
